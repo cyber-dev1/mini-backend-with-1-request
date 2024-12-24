@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Malibu",
+        "speed":"240",
+        "year":"2022"
+    },
+    {
+        "name":"Nexia3",
+        "speed":"170",
+        "year":"2018"
+    },
+    {
+        "name":"BMW",
+        "speed":"390",
+        "year":"2024"
+    },
+    {
+        "name":"BYDxan",
+        "speed":"380",
+        "year":"2023"
+    },
+    {
+        "name":"KiaK8",
+        "speed":"360",
+        "year":"2022"
+    },
+    {
+        "name":"Kamaz",
+        "speed":"130",
+        "year":"2016"
+    }
+]
